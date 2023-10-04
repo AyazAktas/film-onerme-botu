@@ -1,6 +1,9 @@
 # Film Öneri Uygulaması
 
 Bu basit Python uygulaması, rastgele bir film önerisi sunan bir araçtır. Kullanıcılar, bu uygulama aracılığıyla yeni filmler keşfedebilir veya izlemek istedikleri filmleri işaretleyebilirler.
+
+
+
 ![Örnek Ekran Görüntüsü](FilmBotu.jpeg)
 
 ## Nasıl Kullanılır
@@ -25,6 +28,9 @@ Bu uygulama aşağıdaki Python kütüphanelerine ihtiyaç duyar:
 - `pandas` (Veri işleme için)
 - `numpy` (Sayısal hesaplamalar için)
 - `tkinter` (Grafik arayüz oluşturmak için)
+
+
+## Daha fazla bilgi için web sitemi ziyaret edin.(https://ayazaktas.netlify.app)
 
 ## Katkıda Bulunma
 Bu projeye katkıda bulunmak isterseniz, lütfen forklayın ve pull request gönderin. Katkılarınızı memnuniyetle karşılarız!
